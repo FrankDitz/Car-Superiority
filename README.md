@@ -1,1 +1,2 @@
 # Car-Superiority
+Edmunds.com is one of the more popular car review websites, with an average of 16 million unique visitors per month. Edmunds offers in-depth reviews from professional car reviewers as well as everyday drivers and is considered one of the more reliable car review websites. This project will use the Beautiful Soup library to obtain reliable information on car makes, models, years, reviews, and price ranges in order to answer questions on car brand/model reliabillity, value depreciation, and overall satisfaction.
